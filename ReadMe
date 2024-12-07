@@ -56,7 +56,7 @@ Windows安全中心 -> 设备安全性 -> 内核隔离 ->
 
 
 —————————————————————————
-【第3步】开启Bitlocker全盘加密   +  设置 冷启动密码（设置 BitlockerPreBoot Pin）
+【第3步】开启Bitlocker全盘加密   +  设置 冷启动密码（设置 Bitlocker PreBoot Pin）
 —————————————————————————
 
 控制面板 -> 系统和安全 -> BitLocker 驱动器加密 ->
